@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+   <table border = "1" cellpadding="5" cellspacing="5">
+        <td><b>Username</b></td>
+        <td><b>Ranking</b></td>
+        {% for x in rankinglist %}
+
+        <tr>
+            <td>{{x.username}}</td>
+            <td>{{x.ranking}}</td>
+
+        </tr>
+
+        {% endfor %}
+    </table>
+{% endblock %}
+
+
