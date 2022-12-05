@@ -28,7 +28,6 @@ This project is not finished yet, but I want to do there:
 * Make the whole project look nice
 
 ## About Me
-I'm Junior Python Developer, I want to grow into Senior Python Developer in the future.
 ### Possibility of contact:
 E-mail adress: gronwaldpiotrek@gmail.com
 LinkedIn profile: https://www.linkedin.com/in/piotr-gronwald/
