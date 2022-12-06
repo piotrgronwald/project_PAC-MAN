@@ -16,6 +16,7 @@ Project is created with:
 * Python version: 3.10
 * HTML version: HTML5
 * XML version: 1.0
+* Django version: 4.1.3
 
 ## Inspiration
 This app is inspired by a course from Videopoint Grupa Helion "Twórz gry w Pythonie!" on Udemy.com
